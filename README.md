@@ -40,7 +40,7 @@ Once the shell is running, you can enter commands to perform various operations 
 --all [<object>]: List all objects or objects of a specific type.
 
 Examples :
-
+`
 In interactive Mode:
 $ ./console.py
 (hbnb) help
@@ -57,8 +57,7 @@ $
 In Non-Interactive Mode:
 
 $ echo "help" | ./console.py
-(hbnb)
-
+(hbnb)`
 Documented commands (type help <topic>):
 ========================================
 EOF  help  quit
